@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-21T21:59:05 IST" name="Default suite" finished-at="2024-12-21T21:59:08 IST" duration-ms="2870">
+    <groups>
+    </groups>
+    <test started-at="2024-12-21T21:59:05 IST" name="Default test" finished-at="2024-12-21T21:59:08 IST" duration-ms="2870">
+      <class name="com.tiptop_Assignment.Test.FormTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:05 IST" name="setUp" finished-at="2024-12-21T21:59:07 IST" duration-ms="1789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDisabledInput()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testDisabledInput" finished-at="2024-12-21T21:59:07 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDisabledInput -->
+        <test-method signature="testDropdownElements1()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testDropdownElements1" finished-at="2024-12-21T21:59:07 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdownElements1 -->
+        <test-method signature="testDropdownElements2()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testDropdownElements2" finished-at="2024-12-21T21:59:07 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdownElements2 -->
+        <test-method signature="testReadonlyInput1()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testReadonlyInput1" finished-at="2024-12-21T21:59:07 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadonlyInput1 -->
+        <test-method signature="testReadonlyInput2()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testReadonlyInput2" finished-at="2024-12-21T21:59:07 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testReadonlyInput2 -->
+        <test-method signature="testSubmitDisabledNoData()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:07 IST" name="testSubmitDisabledNoData" finished-at="2024-12-21T21:59:08 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitDisabledNoData -->
+        <test-method signature="testSubmitEnabledWithData()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:08 IST" name="testSubmitEnabledWithData" finished-at="2024-12-21T21:59:08 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitEnabledWithData -->
+        <test-method signature="testSubmitShowsReceivedText()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:08 IST" name="testSubmitShowsReceivedText" finished-at="2024-12-21T21:59:08 IST" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubmitShowsReceivedText -->
+        <test-method signature="testUrlContainsFormData()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:08 IST" name="testUrlContainsFormData" finished-at="2024-12-21T21:59:08 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUrlContainsFormData -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tiptop_Assignment.Test.FormTests@47d9a273]" started-at="2024-12-21T21:59:08 IST" name="tearDown" finished-at="2024-12-21T21:59:08 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tiptop_Assignment.Test.FormTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
